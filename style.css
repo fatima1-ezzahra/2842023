@@ -26,14 +26,14 @@ body {
     justify-content: center ; 
     background-size: cover;
      min-height: 100vh;
-    background-image: url('Grey\ Minimalist\ Phone\ Wallpaper.jpg');
+    background-image: url('2023.jpg');
     overflow: hidden; 
     background-size: cover;
     background-repeat: no-repeat;
 }
 @media (max-width: 768px) {
     body {
-      background-image: url('Grey\ Minimalist\ Phone\ Wallpaper.jpg');
+      background-image: url('2023.jpg');
     }
   }
   
